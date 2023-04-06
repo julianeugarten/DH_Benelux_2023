@@ -1,5 +1,5 @@
 # DH Benelux 2023
-This repo contains an anonoymized version of the MythFic Metadata dataset. The set contains metadata for all 5.154 works of fanfiction written in English in the fandom 'Ancient Greek Religion and Lore' that were marked completed in December 2022. Popularity metrics ( comments, kudos, bookmarks and hits) were accurate as of that date but are, of course, constantly increasing.  
+This repo contains an anonoymized version of the MythFic Metadata dataset. The set contains metadata for all 5.154 works of fanfiction written in English in the fandom 'Ancient Greek Religion and Lore' that were marked completed in December 2022. Popularity metrics ( comments, kudos, bookmarks and hits) were accurate as of that date but are, of course, constantly increasing.  The repo also contains a Jupyter Notebook of code that was used to analyze the metadata, and the resulting tally of  the frequency of relationship-types and violence-categories.
 
 **The metadata fields are:**  
 
@@ -45,5 +45,6 @@ hits - number of page views. It is difficult to determine whether hits align wit
 
 The notebook walks you through the steps taken to count and visualize the frequency of relationship categories in the metadata. It also identifies the 500 most frequently used additional tags, which were used to generate the violence-categories. Finally, the code counts the occurrence of the violence categories and transforms these counts into data that were input in SPSS.  
 
-**tally.csv**  
+**tally.csv**    
+
 Tally.csv contains a tally of the occurrence of relationships-categories and violence-categories per story. This can be uploaded into SPSS for further statistical analysis of results.
