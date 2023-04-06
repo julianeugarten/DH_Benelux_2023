@@ -44,3 +44,6 @@ hits - number of page views. It is difficult to determine whether hits align wit
 **Jupyter Notebook for analyzing MythFic Metadata**  
 
 The notebook walks you through the steps taken to count and visualize the frequency of relationship categories in the metadata. It also identifies the 500 most frequently used additional tags, which were used to generate the violence-categories. Finally, the code counts the occurrence of the violence categories and transforms these counts into data that were input in SPSS.  
+
+**tally.csv**  
+Tally.csv contains a tally of the occurrence of relationships-categories and violence-categories per story. This can be uploaded into SPSS for further statistical analysis of results.
