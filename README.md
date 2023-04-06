@@ -1,4 +1,4 @@
-# DH_Benelux_2023
+# DH Benelux 2023
 This repo contains an anonoymized version of the MythFic Metadata dataset. The set contains metadata for all 5.154 works of fanfiction written in English in the fandom 'Ancient Greek Religion and Lore' that were marked completed in December 2022. Popularity metrics ( comments, kudos, bookmarks and hits) were accurate as of that date but are, of course, constantly increasing.  
 
 **The metadata fields are:**  
