@@ -1,7 +1,7 @@
 # DH_Benelux_2023
 This repo contains an anonoymized version of the MythFic Metadata dataset. The set contains metadata for all 5.154 works of fanfiction written in English in the fandom 'Ancient Greek Religion and Lore' that were marked completed in December 2022. Popularity metrics ( comments, kudos, bookmarks and hits) were accurate as of that date but are, of course, constantly increasing.  
 
-The metadata fields are:  
+**The metadata fields are:**  
 
 title - The work’s title.  
 
@@ -41,6 +41,6 @@ hits - number of page views. It is difficult to determine whether hits align wit
 
 
 
-Jupyter Notebook for analyzing MythFic Metadata  
+**Jupyter Notebook for analyzing MythFic Metadata**  
 
 The notebook walks you through the steps taken to count and visualize the frequency of relationship categories in the metadata. It also identifies the 500 most frequently used additional tags, which were used to generate the violence-categories. Finally, the code counts the occurrence of the violence categories and transforms these counts into data that were input in SPSS.  
